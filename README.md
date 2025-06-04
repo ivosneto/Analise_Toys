@@ -1,6 +1,10 @@
 🧸 Relatório Final – Análise de Vendas Global Toys
+
+
 🧪 1. Metodologia
+
 🔍 Etapas do Processo:
+
 Importação dos dados brutos da planilha Vendas_Global_Toys.xlsx.
 
 Limpeza e tratamento de dados, incluindo:
@@ -26,6 +30,7 @@ Visualizações gráficas para identificar tendências, comparações e correla�
 Extração de insights e elaboração de recomendações estratégicas.
 
 🧰 2. Ferramentas e Bibliotecas Utilizadas
+
 O projeto foi desenvolvido em Python por meio de um notebook Jupyter, com as seguintes bibliotecas:
 
 Biblioteca	Finalidade
@@ -36,6 +41,7 @@ openpyxl	Leitura e gravação de arquivos Excel .xlsx
 nbformat	Criação automatizada do notebook Jupyter
 
 📊 3. Resultados e KPIs
+
 Faturamento Total: R$ X.XXX.XXX,XX
 
 Quantidade Total de Produtos Vendidos: XXXX unidades
@@ -52,20 +58,25 @@ Sugerem foco em reposição de estoque e investimento promocional nessas linhas.
 Produtos como Carrinho Rápido XL e Boneca Sonho Mágico lideram em volume e receita.
 
 📌 Regiões
+]
 O Sudeste concentra o maior faturamento. Outras regiões apresentam espaço para crescimento.
 
 📌 Vendedores
+
 Forte concentração de vendas em poucos vendedores. Potencial para treinamento do time.
 
 📌 Tendência Sazonal
+
 Vendas flutuam ao longo do ano, com picos sazonais claros — especialmente em dezembro.
 
 📌 Análises Cruzadas
+
 Produtos com alta quantidade vendida nem sempre trazem maior receita.
 
 A dispersão entre quantidade × valor total sugere necessidade de analisar margem unitária.
 
 💡 5. Recomendações Estratégicas
+
 Segmentar campanhas por categoria e região.
 
 Criar incentivos sazonais alinhados com os meses de maior pico.

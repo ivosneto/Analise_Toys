@@ -33,28 +33,28 @@ Extração de insights e elaboração de recomendações estratégicas.
 
 O projeto foi desenvolvido em Python por meio de um notebook Jupyter, com as seguintes bibliotecas:
 
-Biblioteca	Finalidade
-pandas	Manipulação e limpeza de dados tabulares
-matplotlib	Criação de gráficos de barras, linhas e dispersão
-seaborn	Visualizações com design aprimorado e gráficos multivariados
-openpyxl	Leitura e gravação de arquivos Excel .xlsx
-nbformat	Criação automatizada do notebook Jupyter
+
+pandas	 
+matplotlib
+seaborn
 
 📊 3. Resultados e KPIs
 
-Faturamento Total: R$ X.XXX.XXX,XX
+Faturamento Total: R$ 62,410.00
 
-Quantidade Total de Produtos Vendidos: XXXX unidades
+Quantidade Total de Produtos Vendidos: 1110 unidades
 
-Faturamento Médio por Pedido: R$ XXX,XX
+Faturamento Médio por Pedido: R$ 208.03
 
 🔍 4. Principais Insights
+
 📌 Categorias
 Destaques: Veículos, Bonecas e Construção lideram em receita.
 
 Sugerem foco em reposição de estoque e investimento promocional nessas linhas.
 
 📌 Produtos
+
 Produtos como Carrinho Rápido XL e Boneca Sonho Mágico lideram em volume e receita.
 
 📌 Regiões
